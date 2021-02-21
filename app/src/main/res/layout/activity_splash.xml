@@ -23,7 +23,7 @@
         android:layout_height="wrap_content"
         android:fontFamily="@font/alfa_slab_one"
         android:gravity="center"
-        android:text="You and Me"
+        android:text="Real Fitness"
         android:textColor="@android:color/black"
         android:textSize="17sp"
         app:layout_constraintBottom_toBottomOf="parent"
